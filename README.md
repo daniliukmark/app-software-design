@@ -1,15 +1,10 @@
-# cli-test
+# app-software-design
+-
+first run:
+```powershell -c "irm bun.sh/install.ps1 | iex"```
 
-To install dependencies:
+then open the folder and run:
+```bun install```
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.45. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+then if it worked, run:
+```bun run index.ts```
