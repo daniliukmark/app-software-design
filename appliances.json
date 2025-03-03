@@ -1,0 +1,264 @@
+[
+	{
+		"name": "Refrigerator (A+++)",
+		"powerConsumption": 150,
+		"embodiedEmissions": 800,
+		"usageMode": "ALWAYS_ON",
+		"parameters": {}
+	},
+	{
+		"name": "Refrigerator (B)",
+		"powerConsumption": 300,
+		"embodiedEmissions": 750,
+		"usageMode": "ALWAYS_ON",
+		"parameters": {}
+	},
+	{
+		"name": "Washing Machine (A+++)",
+		"powerConsumption": 150,
+		"embodiedEmissions": 600,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 8
+		}
+	},
+	{
+		"name": "Washing Machine (B)",
+		"powerConsumption": 250,
+		"embodiedEmissions": 550,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Dishwasher (A+++)",
+		"powerConsumption": 180,
+		"embodiedEmissions": 500,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 5
+		}
+	},
+	{
+		"name": "Dishwasher (A)",
+		"powerConsumption": 220,
+		"embodiedEmissions": 450,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 7
+		}
+	},
+	{
+		"name": "LED TV (4K, 55\")",
+		"powerConsumption": 80,
+		"embodiedEmissions": 550,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "LED TV (HD, 32\")",
+		"powerConsumption": 40,
+		"embodiedEmissions": 300,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Laptop (15\")",
+		"powerConsumption": 45,
+		"embodiedEmissions": 350,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Desktop Computer",
+		"powerConsumption": 150,
+		"embodiedEmissions": 700,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "LED Light Bulb (9W)",
+		"powerConsumption": 9,
+		"embodiedEmissions": 5,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Incandescent Light Bulb (60W)",
+		"powerConsumption": 60,
+		"embodiedEmissions": 10,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Electric Kettle (1.7L)",
+		"powerConsumption": 2000,
+		"embodiedEmissions": 40,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Microwave Oven (900W)",
+		"powerConsumption": 900,
+		"embodiedEmissions": 120,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Toaster (2-slice)",
+		"powerConsumption": 850,
+		"embodiedEmissions": 30,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Coffee Maker (Drip)",
+		"powerConsumption": 1000,
+		"embodiedEmissions": 50,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Hair Dryer (1800W)",
+		"powerConsumption": 1800,
+		"embodiedEmissions": 60,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Electric Toothbrush",
+		"powerConsumption": 2,
+		"embodiedEmissions": 20,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Vacuum Cleaner (Corded)",
+		"powerConsumption": 700,
+		"embodiedEmissions": 150,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Vacuum Cleaner (Cordless)",
+		"powerConsumption": 150,
+		"embodiedEmissions": 180,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Air Conditioner (9000 BTU)",
+		"powerConsumption": 1000,
+		"embodiedEmissions": 900,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Air Conditioner (12000 BTU)",
+		"powerConsumption": 1300,
+		"embodiedEmissions": 1100,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Electric Heater (1500W)",
+		"powerConsumption": 1500,
+		"embodiedEmissions": 80,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Gas Heater",
+		"powerConsumption": 3000,
+		"embodiedEmissions": 120,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 4
+		}
+	},
+	{
+		"name": "Fan (Ceiling)",
+		"powerConsumption": 75,
+		"embodiedEmissions": 65,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 8
+		}
+	},
+	{
+		"name": "Fan (Portable)",
+		"powerConsumption": 40,
+		"embodiedEmissions": 30,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 6
+		}
+	},
+	{
+		"name": "Game Console",
+		"powerConsumption": 150,
+		"embodiedEmissions": 250,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 2
+		}
+	},
+	{
+		"name": "Router",
+		"powerConsumption": 10,
+		"embodiedEmissions": 80,
+		"usageMode": "ALWAYS_ON",
+		"parameters": {}
+	},
+	{
+		"name": "Smart Speaker",
+		"powerConsumption": 3,
+		"embodiedEmissions": 40,
+		"usageMode": "ALWAYS_ON",
+		"parameters": {}
+	},
+	{
+		"name": "Oven",
+		"powerConsumption": 2500,
+		"embodiedEmissions": 500,
+		"usageMode": "ON_DEMAND",
+		"parameters": {
+			"hoursPerDay": 1
+		}
+	}
+]
